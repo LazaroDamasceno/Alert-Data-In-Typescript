@@ -1,5 +1,7 @@
 # Alert-Data-In-Typescript
 
+![Animação](https://user-images.githubusercontent.com/62726118/206876188-6493dea2-ed95-443b-9282-c455c16bd491.gif)
+
 ## Installing Typescript
 
 To install TS on the PC, run on CMD "npm install -g typescript".
